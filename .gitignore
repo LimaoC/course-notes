@@ -1,0 +1,15 @@
+# LaTeX temporary rules
+*.aux
+*.log
+*.fls
+*.out
+*.toc
+
+# Latexmk
+*.fdb_latexmk
+
+# SyncTeX
+*.synctex.gz
+
+
+
